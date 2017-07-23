@@ -1,0 +1,19 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Week 12 assignment",
+  "main": "bamazon.executive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordanBA/Week-12-BAMAZON.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JordanBA/Week-12-BAMAZON/issues"
+  },
+  "homepage": "https://github.com/JordanBA/Week-12-BAMAZON#readme"
+}
